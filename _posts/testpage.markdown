@@ -1,5 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "yeah!!"
+permalink: "/custom/"
 ---
-
+yes this is some stupid page
