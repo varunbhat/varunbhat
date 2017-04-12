@@ -6,18 +6,17 @@ permalink: "/resume/"
 
 # Varun Bhat
 ###### Phone: +1 (650) 228-3691 | Email: varunbhat.kn@gmail.com | [LinkedIn](https://www.linkedin.com/in/varunbhatkn) | [Github](https://github.com/varunbhat)
-_____
+
 
 ### Objective
 Graduate Student specializing in Embedded systems and VLSI | Actively looking for Summer Internship/Co-op
 
 ### Education
----
 | Degree | Department  |      University      |  GPA | Graduation Year |
 |:-----|:----|:----|:---:|---:|
 | Masters of Science(M.S.)| Electrical Engineering | Colorado State University | 3.43 | Dec 2017 |
 | Bachelor of Engineering(B.E.)| Electrical Engineering | Visvesvaraya Technological University | 3.5 | May 2013 |
----
+
 
 ### Relavent Coursework:
 * Hardware and Software Design of Embedded systems
@@ -70,7 +69,7 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Interfaced the hardware to android to provide Channel suggestions.
 
 ### Skills
-|  |   |  |
+| --- | ---  | --- |
 |:---|:---|---|
 | Python | Web:| Django, Bottle, Flask |
 |              | Scientific: |Numpy, Matplotlib, Theano, Keras |
