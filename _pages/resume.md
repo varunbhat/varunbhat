@@ -70,22 +70,20 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Interfaced the hardware to android to provide Channel suggestions.
 
 ### Skills
-
----
- ***Python*** : Web\: : ***Django, Bottle, Flask*** 
-              : Scientific: :***Numpy, Matplotlib, Theano, Keras*** 
- ***C/C++***  : Libraries: : ***Boost,STL C++11/14, OpenMP*** 
-              : GPU:       : ***Cuda***   
- ***Java***   : Platform:  : ***Andoid*** 
- ***HDL***    :            : ***Verilog, VHDL, Chisel, SystemC*** 
- ***Scientific*** : : ***Matlab, Simulink*** 
- ***Hardware Design***: : ***Eagle, Kicad*** 
- ***uC*** : : ***AVR, PIC, Raspberry Pi, MicroPython, ARM***  
- ***Web Design*** : : ***HTML, CSS, JS, PHP, Nodejs*** 
- ***Cloud Services***: : ***AWS, Heroku, Google Cloud Suite, docker*** 
- ***Databases*** : : ***MySQL, Sqlite, Oracle, Mongo, Redis***  
----
-  
+|  |   |  |
+|:---|:---|---|
+| Python | Web:| Django, Bottle, Flask |
+|              | Scientific: |Numpy, Matplotlib, Theano, Keras |
+| C/C++  | Libraries: | Boost,STL C++11/14, OpenMP |
+|              | GPU:       | Cuda   |
+| Java   | Platform:  | Andoid |
+| HDL    |            | Verilog, VHDL, Chisel, SystemC |
+| Scientific | | Matlab, Simulink |
+| Hardware Design| | Eagle, Kicad |
+| uC | | AVR, PIC, Raspberry Pi, MicroPython, ARM | 
+| Web Design | | HTML, CSS, JS, PHP, Nodejs |
+| Cloud Services| | AWS, Heroku, Google Cloud Suite, docker |
+| Databases | | MySQL, Sqlite, Oracle, Mongo, Redis  |
 
 ### Graduate Projects
 * ***VLSI***:  Designed the floor plan for an 8 Bit adder circuit with the help of individual gates matching the specifications using Virtuoso.
@@ -103,7 +101,7 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Other Github Projects ([www](https://github.com/varunbhat/Arduino-Hardware-Projects))
  
 ### Achievements
-* ***IEEE Xtreme 6.0 (2012)***: Achieved 4th in India and 164th worldwide. Under the team name Impetus [Link](https://www.ieee.org/membership_services//Final_Results_2012.pdf)
+* ***IEEE Xtreme 6.0 (2012)*** : Achieved 4th in India and 164th worldwide. Under the team name Impetus [Link](https://www.ieee.org/membership_services//Final_Results_2012.pdf)
 * Awarded Best Outgoing Student for overall performance of the Batch-2013
 * Awarded Excellence in leadership By Forum of Reva Communication and Engineering (FORCE), 2012
 * Conducted workshops in PCB Design, Python, Arduino Programming, Web Development
