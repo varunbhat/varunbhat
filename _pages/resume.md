@@ -12,6 +12,7 @@ permalink: "/resume/"
 Graduate Student specializing in Embedded systems and VLSI | Actively looking for Summer Internship/Co-op
 
 ### Education
+
 | Degree | Department  |      University      |  GPA | Graduation Year |
 |:-----|:----|:----|:---:|---:|
 | Masters of Science(M.S.)| Electrical Engineering | Colorado State University | 3.43 | Dec 2017 |
@@ -69,6 +70,7 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Interfaced the hardware to android to provide Channel suggestions.
 
 ### Skills
+
 | --- | ---  | --- |
 |:---|:---|---|
 | Python | Web:| Django, Bottle, Flask |
@@ -79,7 +81,7 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 | HDL    |            | Verilog, VHDL, Chisel, SystemC |
 | Scientific | | Matlab, Simulink |
 | Hardware Design| | Eagle, Kicad |
-| uC | | AVR, PIC, Raspberry Pi, MicroPython, ARM | 
+| uC | | AVR, PIC, Raspberry Pi, MicroPython, ARM |
 | Web Design | | HTML, CSS, JS, PHP, Nodejs |
 | Cloud Services| | AWS, Heroku, Google Cloud Suite, docker |
 | Databases | | MySQL, Sqlite, Oracle, Mongo, Redis  |
