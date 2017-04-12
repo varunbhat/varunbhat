@@ -11,6 +11,8 @@ permalink: "/resume/"
 ### Objective
 Graduate Student specializing in Embedded systems and VLSI | Actively looking for Summer Internship/Co-op
 
+ ---
+ 
 ### Education
 
 | Degree | Department  |      University      |  GPA | Graduation Year |
@@ -27,6 +29,8 @@ Graduate Student specializing in Embedded systems and VLSI | Actively looking fo
 * Introduction to algorithms
 * DSP using FPGA/ Software Defined Radio
 * VLSI Design
+
+---
 
 ### Work Experience
 
@@ -69,6 +73,9 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Designed and Developed a prototype circuit to receive IR remote key press data
 * Interfaced the hardware to android to provide Channel suggestions.
 
+
+---
+
 ### Skills
 
 | --- | ---  | --- |
@@ -86,12 +93,19 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 | Cloud Services| | AWS, Heroku, Google Cloud Suite, docker |
 | Databases | | MySQL, Sqlite, Oracle, Mongo, Redis  |
 
+
+---
+
+
 ### Graduate Projects
 * ***VLSI***:  Designed the floor plan for an 8 Bit adder circuit with the help of individual gates matching the specifications using Virtuoso.
 * ***Internet Engineering***: Designed a POC and tested a P2P IoT network implementation for service discovery using a distributed DHT.
 * ***Embedded Systems***: Ultrasound tomography using FPGA
 * ***Machine Learning***: Handwriting Recognition using Deep learning. 
 * ***Graduate Project***: Proposing a model for mitigating cross talk due to process variations in Photonic Network on chips
+
+
+
 
 ### Independent Projects
 * Multi-interfaced  Remote  Network:  Home Automation  with  Network  of Arduino  devices  connected  to  switches,  communicating  to  a  central  master controller (Raspberry Pi) connected to a Mobile and WiFi and Bluetooth. Allows receiving information from an Android or web Interface or sms/call to switch devices and receive sensor readings. ([www]((https://github.com/varunbhat/Home-Automation-Internet)))
@@ -100,6 +114,8 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * TxtWeb(API) based SMS Registration and Notification System, implemented for event registration([www](https://github.com/varunbhat/Life-with-sms)).
 * Arduino based MP3 player with alarm Clock.
 * Other Github Projects ([www](https://github.com/varunbhat/Arduino-Hardware-Projects))
+ 
+---
  
 ### Achievements
 * ***IEEE Xtreme 6.0 (2012)*** : Achieved 4th in India and 164th worldwide. Under the team name Impetus [Link](https://www.ieee.org/membership_services//Final_Results_2012.pdf)
