@@ -30,7 +30,7 @@ Graduate Student specializing in Embedded systems and VLSI | Actively looking fo
 
 ### Work Experience
 
-#### Colorado State Universtiy
+#### Colorado State University
 ***Graduate Teaching Assistant*** _(Jan 2017 - Present)_
 
 
@@ -70,20 +70,21 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Interfaced the hardware to android to provide Channel suggestions.
 
 ### Skills
-|  |   | |
-|:---|:---|---|
-| ***Python*** | Web:| ***Django, Bottle, Flask*** |
-|              | Scientific: |***Numpy, Matplotlib, Theano, Keras*** |
-| ***C/C++***  | Libraries: | ***Boost,STL C++11/14, OpenMP*** |
-|              | GPU:       | ***Cuda***   |
-| ***Java***   | Platform:  | ***Andoid*** |
-| ***HDL***    |            | ***Verilog, VHDL, Chisel, SystemC*** |
-| ***Scientific*** | | ***Matlab, Simulink*** |
-| ***Hardware Design***| | ***Eagle, Kicad*** |
-| ***uC*** | | ***AVR, PIC, Raspberry Pi, MicroPython, ARM*** | 
-| ***Web Design*** | | ***HTML, CSS, JS, PHP, Nodejs*** |
-| ***Cloud Services***| | ***AWS, Heroku, Google Cloud Suite, docker*** |
-| ***Databases*** | | ***MySQL, Sqlite, Oracle, Mongo, Redis***  |
+
+---
+ ***Python*** : Web\: : ***Django, Bottle, Flask*** 
+              : Scientific: :***Numpy, Matplotlib, Theano, Keras*** 
+ ***C/C++***  : Libraries: : ***Boost,STL C++11/14, OpenMP*** 
+              : GPU:       : ***Cuda***   
+ ***Java***   : Platform:  : ***Andoid*** 
+ ***HDL***    :            : ***Verilog, VHDL, Chisel, SystemC*** 
+ ***Scientific*** : : ***Matlab, Simulink*** 
+ ***Hardware Design***: : ***Eagle, Kicad*** 
+ ***uC*** : : ***AVR, PIC, Raspberry Pi, MicroPython, ARM***  
+ ***Web Design*** : : ***HTML, CSS, JS, PHP, Nodejs*** 
+ ***Cloud Services***: : ***AWS, Heroku, Google Cloud Suite, docker*** 
+ ***Databases*** : : ***MySQL, Sqlite, Oracle, Mongo, Redis***  
+---
   
 
 ### Graduate Projects
