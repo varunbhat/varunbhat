@@ -78,7 +78,7 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 
 ### Skills
 
-| --- | ---  | --- |
+|  |   |  |
 |:---|:---|---|
 | Python | Web:| Django, Bottle, Flask |
 |              | Scientific: |Numpy, Matplotlib, Theano, Keras |
