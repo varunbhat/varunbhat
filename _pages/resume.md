@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Me, in short
 permalink: "/resume/"
 ---
 
@@ -14,7 +14,7 @@ Graduate Student specializing in Embedded systems and VLSI | Actively looking fo
 ### Education
 
 | Degree | Department  |      University      |  GPA | Graduation Year |
-|-----|----|----|:---:|---:|
+|:-----|:----|:----|:---:|---:|
 | Masters of Science(M.S.)| Electrical Engineering | Colorado State University | 3.43 | Dec 2017 |
 | Bachelor of Engineering(B.E.)| Electrical Engineering | Visvesvaraya Technological University | 3.5 | May 2013 |
 
