@@ -12,13 +12,14 @@ _____
 Graduate Student specializing in Embedded systems and VLSI | Actively looking for Summer Internship/Co-op
 
 ### Education
-
+---
 | Degree | Department  |      University      |  GPA | Graduation Year |
 |:-----|:----|:----|:---:|---:|
 | Masters of Science(M.S.)| Electrical Engineering | Colorado State University | 3.43 | Dec 2017 |
 | Bachelor of Engineering(B.E.)| Electrical Engineering | Visvesvaraya Technological University | 3.5 | May 2013 |
+---
 
-#### Relavent Coursework:
+### Relavent Coursework:
 * Hardware and Software Design of Embedded systems
 * Advanced Computer Architecture Engineering 
 * Internet Engineering
@@ -69,14 +70,14 @@ _Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.co
 * Interfaced the hardware to android to provide Channel suggestions.
 
 ### Skills
-|  |   ||
-|:---|:---| --- |
+|  |   | |
+|:---|:---|---|
 | ***Python*** | Web:| ***Django, Bottle, Flask*** |
 |              | Scientific: |***Numpy, Matplotlib, Theano, Keras*** |
 | ***C/C++***  | Libraries: | ***Boost,STL C++11/14, OpenMP*** |
 |              | GPU:       | ***Cuda***   |
 | ***Java***   | Platform:  | ***Andoid*** |
-| ***HDL*** | | ***Verilog, VHDL, Chisel, SystemC*** |
+| ***HDL***    |            | ***Verilog, VHDL, Chisel, SystemC*** |
 | ***Scientific*** | | ***Matlab, Simulink*** |
 | ***Hardware Design***| | ***Eagle, Kicad*** |
 | ***uC*** | | ***AVR, PIC, Raspberry Pi, MicroPython, ARM*** | 
