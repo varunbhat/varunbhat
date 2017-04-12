@@ -51,8 +51,8 @@ Graduate Student specializing in Embedded systems and VLSI | Actively looking fo
 * Took up various software projects from freelancer.com.
 * Worked on designing projects relating to Web Backend, Mobile Application, Firmware design and Network administration on cloud servers.
 
-#### Tayana Software Solutions
-***Software Developer*** _(Jul 2013 - Aug 2014)_ ([www](http://tayanasoftware.com/))
+#### [Tayana Software Solutions](http://tayanasoftware.com)
+***Software Developer*** _(Jul 2013 - Aug 2014)_
 * Modified and added features to the Signaling Server and Load balancer for sorting incoming calls and SMS from the SS7 network.
 * Worked on Call Screening plaTorm and integration with the Web interface, Short Message Switching Centre (SMSC); feature development and bug fixing.
 
@@ -67,7 +67,7 @@ _Intern at_ ***Indian Space Research Organization(ISRO)*** (Jan 2013 - May 2013)
 * Understood the interaction of MIL-1553 bus controller with remote terminals of various subsystems with the 8051 IP Core.
 * Also, implemented the same on an Actel FPGA Board in VHDL.
 
-_Intern at_ ***Dfygraviti Technologies Pvt Ltd*** () ([www](http://dfygraviti.com/))
+_Intern at_ [***Dfygraviti Technologies Pvt Ltd***](http://dfygraviti.com/)
 * Designed and Developed a prototype circuit to receive IR remote key press data
 * Interfaced the hardware to android to provide Channel suggestions.
 

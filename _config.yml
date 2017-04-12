@@ -1,7 +1,7 @@
 # Site Settings
 
 title: Varun
-subtitle: tronics
+subtitle:
 email: varunbhat@geektronics.in
 description: >
   Write an awesome description for your new site here. You can edit this
@@ -11,9 +11,7 @@ baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _varunbhat
 github_username:  varunbhat
-facebook_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/varunbhatkn
 
 ## Homepage tiles
 #tiles-source: posts # accepts "posts" or "pages"
