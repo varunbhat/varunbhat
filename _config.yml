@@ -15,7 +15,7 @@ linkedin_url: https://www.linkedin.com/in/varunbhatkn
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
 gems:
   - jekyll-feed
 exclude:
