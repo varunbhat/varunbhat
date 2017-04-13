@@ -5,7 +5,14 @@ permalink: "/resume/"
 ---
 
 # Varun Bhat
-###### Phone: +1 (650) 228-3691 | Email: varunbhat.kn@gmail.com | [LinkedIn](https://www.linkedin.com/in/varunbhatkn) | [Github](https://github.com/varunbhat)
+###### Programmer Unleashed
+
+<div class="subtitle">
+    <a href="tel:+16502283691"><i class="fa fa-phone-square" aria-hidden="true"></i> +1 (650) 228-3691 </a> |
+    <a href="mailto:varunbhat.kn@gmail.com"><i class="fa fa-envelope-square"></i> varunbhat.kn@gmail.com</a> |
+    <a href="https://www.linkedin.com/in/varunbhatkn"><i class="fa fa-linkedin-square"></i> varunbhatkn</a> |
+    <a href="https://github.com/varunbhat"><i class="fa fa-github-square"></i> varunbhat</a>
+</div>
 
 
 ### Objective

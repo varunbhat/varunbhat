@@ -13,23 +13,24 @@ twitter_username: _varunbhat
 github_username:  varunbhat
 linkedin_url: https://www.linkedin.com/in/varunbhatkn
 
-## Homepage tiles
-#tiles-source: posts # accepts "posts" or "pages"
-#tiles-count: 6
-
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 gems:
   - jekyll-feed
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
 
-include: ['_pages']
+
+include:
+  - _pages
+  - _sass
 
 sass:
-style: compressed
+  sass_dir: _sass
+  style: compressed
 
 
 
