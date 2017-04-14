@@ -14,11 +14,11 @@ permalink: "/resume/"
 </div>
 
 
-## Objective
+### Objective
 Graduate Student specializing in Embedded systems and VLSI | Actively looking for Summer Internship/Co-op
 
  
-## Education
+### Education
 
 | Degree | Department  |      University      |  GPA | Graduation Year |
 |:-----|:----|:----|:---:|---:|
@@ -26,27 +26,27 @@ Graduate Student specializing in Embedded systems and VLSI | Actively looking fo
 | Bachelor of Engineering(B.E.)| Electronics and Communication Engineering | Visvesvaraya Technological University | 3.5 | May 2013 |
 
 
-## Relavent Coursework:
-* Hardware and Software Design of Embedded systems
-* Advanced Computer Architecture Engineering 
-* Internet Engineering
-* Machine Learning
-* Introduction to algorithms
-* DSP using FPGA/ Software Defined Radio
-* VLSI Design
+### Relavent Coursework:
+* Hardware and Software Design of Embedded systems (ECE561)
+* Advanced Computer Architecture Engineering (ECEN5593 UCBoulder)
+* Internet Engineering (ECE658)
+* Machine Learning (CS545)
+* Introduction to algorithms (CS420)
+* DSP using FPGA/ Software Defined Radio (ECE)
+* VLSI Design (ECE571)
 
 
-## Work Experience
+### Work Experience
 
-#### Colorado State University
+#### Colorado State University (CO, USA)
 ***Graduate Teaching Assistant*** _(Jan 2017 - Present)_
 
 
-#### Colorado State University  
+#### Colorado State University (CO, USA)  
 ***Web Developer*** _(Aug 2016 - Present)_
 * Designing tools to be in use for the Engineering department for the use by students and faculty, a few of which are deployed at the university level.
 
-#### Council of Scientific and Industrial Research (CSIR)
+#### Council of Scientific and Industrial Research (CSIR) (Bangalore, India)
 ***Project Engineer***  (Jan 2015 - May - 2015) 
 * Designed and developed circuit prototype for three different medical devices.
 * Learnt the architecture of PIC micro controllers and used them for wireless medical instruments.
@@ -57,13 +57,13 @@ Graduate Student specializing in Embedded systems and VLSI | Actively looking fo
 * Took up various software projects from freelancer.com.
 * Worked on designing projects relating to Web Backend, Mobile Application, Firmware design and Network administration on cloud servers.
 
-#### [Tayana Software Solutions](http://tayanasoftware.com)
+#### [Tayana Software Solutions](http://tayanasoftware.com) (Bangalore, India)
 ***Software Developer*** _(Jul 2013 - Aug 2014)_
 * Modified and added features to the Signaling Server and Load balancer for sorting incoming calls and SMS from the SS7 network.
 * Worked on Call Screening plaTorm and integration with the Web interface, Short Message Switching Centre (SMSC); feature development and bug fixing.
 
 
-## Educational experience
+### Educational experience
 _Project Assistant_ ***Indian Institute of Science*** (Oct 2014 - Jan 215)
 * Implemented the hardware from the paper on “Design and Evaluation of a Robust Optical Beam-Interruption-Based Vehicle Classifier System”. 
 * Redesigned the  analog signal processing circuit with digital filters controlled by using Atmel Cortex M0 Microcontroller 
@@ -78,7 +78,7 @@ _Intern at_ [***Dfygraviti Technologies Pvt Ltd***](http://dfygraviti.com/)
 * Interfaced the hardware to android to provide Channel suggestions.
 
 
-## Skills
+### Skills
 
 | Platforms |   |  |
 |:---|:---|---|
@@ -96,14 +96,14 @@ _Intern at_ [***Dfygraviti Technologies Pvt Ltd***](http://dfygraviti.com/)
 | Databases | | MySQL, Sqlite, Oracle, Mongo, Redis  |
 
 
-## Graduate Projects
+### Graduate Projects
 * ***VLSI***:  Designed the floor plan for an 8 Bit adder circuit with the help of individual gates matching the specifications using Virtuoso.
 * ***Internet Engineering***: Designed a POC and tested a P2P IoT network implementation for service discovery using a distributed DHT.
 * ***Embedded Systems***: Ultrasound tomography using FPGA
 * ***Machine Learning***: Handwriting Recognition using Deep learning. 
 * ***Graduate Project***: Proposing a model for mitigating cross talk due to process variations in Photonic Network on chips
 
-## Independent Projects
+### Independent Projects
 * Multi-interfaced  Remote  Network:  Home Automation  with  Network  of Arduino  devices  connected  to  switches,  communicating  to  a  central  master controller (Raspberry Pi) connected to a Mobile and WiFi and Bluetooth. Allows receiving information from an Android or web Interface or sms/call to switch devices and receive sensor readings. ([www]((https://github.com/varunbhat/Home-Automation-Internet)))
 * Dictionary based Speech Recognition implemented using Matlab. Displayed the results of a game implemented using the speech recognition on a custom made 16x16 LED matrix. 
 * OpenCV based path detection Robot using Arduino and Raspberry Pi. ([www](https://github.com/varunbhat/An-eye-for-the-blind-bot))
@@ -112,7 +112,7 @@ _Intern at_ [***Dfygraviti Technologies Pvt Ltd***](http://dfygraviti.com/)
 * Other Github Projects ([www](https://github.com/varunbhat/Arduino-Hardware-Projects))
  
  
-## Achievements
+### Achievements
 * ***IEEE Xtreme 6.0 (2012)*** : Achieved 4th in India and 166th worldwide. Under the team name Impetus [Link](https://www.ieee.org/membership_services//Final_Results_2012.pdf)
 * Awarded Best Outgoing Student for overall performance of the Batch-2013
 * Awarded Excellence in leadership By Forum of Reva Communication and Engineering (FORCE), 2012
