@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me, in short
+title: Resume
 permalink: "/resume/"
 ---
 
