@@ -88,11 +88,41 @@ I like to keep things separated. Hence I use a root Makefile and create sub fold
 
 
 ```
+# [Makefile.am]
 ACLOCAL_AMFLAGS = ${ACLOCAL_FLAGS} -I m4
 AM_CPPFLAGS = $(BOOST_CPPFLAGS)
 AM_LDFLAGS = $(BOOST_LDFLAGS)
 
 SUBDIRS = src
+
 ```
 
+
+
+
+Add each of the sub directories in the macro SUBDIRS.
+
+
+```
+bin_PROGRAMS = clos
+clos_SOURCES = main.cpp crosstalk.cpp
+clos_CPPFLAGS = -DCLOS_CONST_Q_FACTOR -DMATERIAL=$(SI_SIO2)
+
+```
+
+do a 
+```
+autoreconf
+./configure
+make
+```
+
+The steps creates an executable.
+
+## Using the M4 macros
+
+
+M4 macros are predefined macros to check certain conditions or scripts to execute to link or modify the executable. The automake library has a list of predefined macros that can be used. Download the required macro (Including the dependent macros) and add them to the makefile. The steps for using the macro will be defined in the documentation.
+
+[Link](https://www.gnu.org/software/m4/m4.html) to the automake macros.
 
