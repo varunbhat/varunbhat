@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "PNoC Documentation"
+date:   2017-04-27 11:52:04 -0600
+categories: systemc
+---
+
+# Photonic Network on chip documentation
+
+The Project aims at simulating the Photonic network on chip architectures, namely,
+* Corona
+* Flexishare
+* Firefly
+
+The Generated Documentation of the code can be found in this bitbucket link
+[Manpage](https://varun-colostate.bitbucket.io/pnoc-systemc/)
+
