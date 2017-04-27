@@ -5,7 +5,6 @@ date:   2017-04-27 11:52:04 -0600
 categories: github projects
 ---
 
-# Github Projects done till date
 
 Link to my [Github Profile](https://github.com/varunbhat)
 
