@@ -101,7 +101,7 @@ _Intern at_ [***Dfygraviti Technologies Pvt Ltd***](http://dfygraviti.com/)
 * ***Internet Engineering***: Designed a POC and tested a P2P IoT network implementation for service discovery using a distributed DHT.
 * ***Embedded Systems***: Ultrasound tomography using FPGA
 * ***Machine Learning***: Handwriting Recognition using Deep learning. 
-* ***Graduate Project***: Proposing a model for mitigating cross talk due to process variations in Photonic Network on chips
+* ***Graduate Project***: Proposing a model for mitigating cross talk due to process variations in [Photonic Network on chips](http://varun-colostate.bitbucket.io/pnoc-systemc)
 
 ### Independent Projects
 * Multi-interfaced  Remote  Network:  Home Automation  with  Network  of Arduino  devices  connected  to  switches,  communicating  to  a  central  master controller (Raspberry Pi) connected to a Mobile and WiFi and Bluetooth. Allows receiving information from an Android or web Interface or sms/call to switch devices and receive sensor readings. ([www]((https://github.com/varunbhat/Home-Automation-Internet)))
