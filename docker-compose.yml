@@ -4,7 +4,7 @@ services:
     image: ubuntu:17.10
     entrypoint: bash /src/scripts/start.sh
     container_name: vb_gitpages
-#    ports:
-#      -
+    ports:
+      - "4000:4000"
     volumes:
       - ./:/src
