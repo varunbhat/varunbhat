@@ -1,0 +1,10 @@
+version: '3'
+services:
+  varunbhat_website:
+    image: ubuntu:17.10
+    entrypoint: bash /src/scripts/start.sh
+    container_name: vb_gitpages
+#    ports:
+#      -
+    volumes:
+      - ./:/src
