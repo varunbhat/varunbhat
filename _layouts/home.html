@@ -28,7 +28,6 @@ layout: default
             <p>I am a graduate student at Colorado State University pursuing my masters in Electrical Engineering.
                 I love the black screen with the white cursor; and drive my car to places unknown.
             </p>
-
             <ul class="actions">
                 <li> If you are looking to hire, <a href="{% link _pages/resume.md %}" class="button next">Checkout My Resume</a></li>
             </ul>
@@ -44,7 +43,7 @@ layout: default
                     <img src="assets/images/pic0{{ forloop.index }}.jpg" alt=""/>
                 </span>
                 <header class="major">
-                    <h3><a href="landing.html" class="link">{{ project.title }}</a></h3>
+                    <h3><a href="{{ project.url }}" class="link">{{ project.title }}</a></h3>
                     <p>{{ project.description }}</p>
                 </header>
             </article>
@@ -57,7 +56,7 @@ layout: default
 <section id="contact">
     <div class="inner">
         <section>
-            <form method="post" action="https://formspree.io/{{ site.formspree_email }}">
+            <form method="post" action="https://formspree.io/{{ site.social.formspree_email }}">
                 <div class="field half first">
                     <label for="name">Name</label>
                     <input type="text" name="name" id="name"/>
@@ -81,7 +80,7 @@ layout: default
                 <div class="contact-method">
                     <span class="icon alt fa-envelope"></span>
                     <h3>Email</h3>
-                    <a href="#">{{ site.email }}</a>
+                    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </div>
             </section>
             <section>
