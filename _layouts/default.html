@@ -5,26 +5,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-
-
 {% include head.html %}
-
 <body>
+<!-- Analytics and site tags -->
+{% if jekyll.environment == 'production' and site.google-tags %}
+{% include google-tags.html %}
+{% endif %}
+
 <div id="wrapper">
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
 </div>
-<!-- Scripts -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/jquery.scrolly.min.js"></script>
-<script src="assets/js/jquery.scrollex.min.js"></script>
-<script src="assets/js/skel.min.js"></script>
-<script src="assets/js/util.js"></script>
-<!--[if lte IE 8]>
-<script src="assets/js/ie/respond.min.js"></script><![endif]-->
-<script src="assets/js/main.js"></script>
+{% include include-scripts.html %}
 </body>
-
 
 </html>

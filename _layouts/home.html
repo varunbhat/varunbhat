@@ -1,19 +1,17 @@
 ---
 layout: default
 ---
-
-
 <!-- Banner -->
 <section id="banner" class="major">
     <div class="inner">
         <header class="major">
-            <h1>Hi, my name is Forty</h1>
+            <h1>Hi, my name is Varun </h1>
         </header>
         <div class="content">
-            <p>A responsive site template designed by HTML5 UP<br/>
-                and released under the Creative Commons.</p>
+            <p>Hardware developer by heart <br/>
+                Software Programmer by nature</p>
             <ul class="actions">
-                <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                <li><a href="#one" class="button next scrolly">Check out my Projects</a></li>
             </ul>
         </div>
     </div>
@@ -21,80 +19,37 @@ layout: default
 
 <!-- Main -->
 <div id="main">
-
-    <!-- One -->
-    <section id="one" class="tiles">
-        <article>
-            <span class="image">
-                <img src="assets/images/pic01.jpg" alt=""/>
-            </span>
-            <header class="major">
-                <h3><a href="landing.html" class="link">Aliquam</a></h3>
-                <p>Ipsum dolor sit amet</p>
-            </header>
-        </article>
-        <article>
-            <span class="image">
-                <img src="assets/images/pic02.jpg" alt=""/>
-            </span>
-            <header class="major">
-                <h3><a href="landing.html" class="link">Tempus</a></h3>
-                <p>feugiat amet tempus</p>
-            </header>
-        </article>
-        <article>
-            <span class="image">
-                <img src="assets/images/pic03.jpg" alt=""/>
-            </span>
-            <header class="major">
-                <h3><a href="landing.html" class="link">Magna</a></h3>
-                <p>Lorem etiam nullam</p>
-            </header>
-        </article>
-        <article>
-            <span class="image">
-                <img src="assets/images/pic04.jpg" alt=""/>
-            </span>
-            <header class="major">
-                <h3><a href="landing.html" class="link">Ipsum</a></h3>
-                <p>Nisl sed aliquam</p>
-            </header>
-        </article>
-        <article>
-            <span class="image">
-                <img src="assets/images/pic05.jpg" alt=""/>
-            </span>
-            <header class="major">
-                <h3><a href="landing.html" class="link">Consequat</a></h3>
-                <p>Ipsum dolor sit amet</p>
-            </header>
-        </article>
-        <article>
-            <span class="image">
-                <img src="assets/images/pic06.jpg" alt=""/>
-            </span>
-            <header class="major">
-                <h3><a href="landing.html" class="link">Etiam</a></h3>
-                <p>Feugiat amet tempus</p>
-            </header>
-        </article>
-    </section>
-
     <!-- Two -->
     <section id="two">
         <div class="inner">
             <header class="major">
-                <h2>Massa libero</h2>
+                <h2>About Me</h2>
             </header>
-            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna
-                sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas
-                laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat
-                tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et
-                feugiat tempus.</p>
+            <p>I am a graduate student at Colorado State University pursuing my masters in Electrical Engineering.
+                I love the black screen with the white cursor; and drive my car to places unknown.
+            </p>
+
             <ul class="actions">
-                <li><a href="landing.html" class="button next">Get Started</a></li>
+                <li> If you are looking to hire, <a href="{% link _pages/resume.md %}" class="button next">Checkout My Resume</a></li>
             </ul>
         </div>
+    </section>
+
+    <!-- One -->
+    <section id="one" class="tiles">
+        {% for project in site.posts %}
+            {% if forloop.index < 13 %}
+            <article>
+                <span class="image">
+                    <img src="assets/images/pic0{{ forloop.index }}.jpg" alt=""/>
+                </span>
+                <header class="major">
+                    <h3><a href="landing.html" class="link">{{ project.title }}</a></h3>
+                    <p>{{ project.description }}</p>
+                </header>
+            </article>
+            {% endif %}
+        {% endfor %}
     </section>
 </div>
 
@@ -102,7 +57,7 @@ layout: default
 <section id="contact">
     <div class="inner">
         <section>
-            <form method="post" action="#">
+            <form method="post" action="https://formspree.io/{{ site.formspree_email }}">
                 <div class="field half first">
                     <label for="name">Name</label>
                     <input type="text" name="name" id="name"/>
@@ -126,23 +81,14 @@ layout: default
                 <div class="contact-method">
                     <span class="icon alt fa-envelope"></span>
                     <h3>Email</h3>
-                    <a href="#">information@untitled.tld</a>
+                    <a href="#">{{ site.email }}</a>
                 </div>
             </section>
             <section>
                 <div class="contact-method">
                     <span class="icon alt fa-phone"></span>
                     <h3>Phone</h3>
-                    <span>(000) 000-0000 x12387</span>
-                </div>
-            </section>
-            <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-home"></span>
-                    <h3>Address</h3>
-                    <span>1234 Somewhere Road #5432<br/>
-										Nashville, TN 00000<br/>
-										United States of America</span>
+                    <span> {site.tel} </span>
                 </div>
             </section>
         </section>

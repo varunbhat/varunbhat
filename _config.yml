@@ -3,21 +3,32 @@
 title: Varun Bhat
 subtitle: Programmer Unleashed
 email: varunbhat.kn@gmail.com
+tel: +1 (650) 228 3691
+fancy_email: gitpush@varunbhat.me
+author: Varun Bhat
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _varunbhat
-github_username:  varunbhat
-linkedin_url: https://www.linkedin.com/in/varunbhatkn
+
+social:
+  twitter_username: _varunbhat
+  github_username:  varunbhat
+  facebook_username: varunbhat.kn
+  linkedin_username: varunbhatkn
+  instagram_username: __varunbhat__
+  formspree_email: varunbhat.kn@gmail.com
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 exclude:
   - vendor
   - Gemfile

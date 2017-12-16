@@ -113,7 +113,7 @@ _Intern at_ [***Dfygraviti Technologies Pvt Ltd***](http://dfygraviti.com/)
  
  
 ### Achievements
-* ***IEEE Xtreme 6.0 (2012)*** : Achieved 4th in India and 166th worldwide. Under the team name Impetus [Link](https://www.ieee.org/membership_services//Final_Results_2012.pdf)
+* ***IEEE Xtreme 6.0 (2012)*** : Achieved 4th in India and 164th worldwide. Under the team name Impetus [Link](https://www.ieee.org/membership_services//Final_Results_2012.pdf)
 * Awarded Best Outgoing Student for overall performance of the Batch-2013
 * Awarded Excellence in leadership By Forum of Reva Communication and Engineering (FORCE), 2012
 * Conducted workshops in PCB Design, Python, Arduino Programming, Web Development
