@@ -4,4 +4,6 @@ _site
 vendor
 .idea
 .bundle
-
+node_modules
+package-lock.json
+package.json
